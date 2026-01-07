@@ -1,0 +1,162 @@
+{
+  "country": "Sénégal",
+  "government_type": "République",
+  "key_facts": {
+    "population": "18 593 258 habitants (estimation 2024, RGPH-5)",
+    "pib": "17 316 milliards FCFA (base 2021)",
+    "smic": "58 900 FCFA / mois",
+    "regions": 14,
+    "langues_officielles": ["Français"],
+    "langues_nationales": ["Wolof", "Pulaar", "Serer"]
+  },
+  "leadership": {
+    "president": {
+      "nom": "Bassirou Diomaye Faye",
+      "depuis": "2 avril 2024",
+      "role": "Président de la République"
+    },
+    "prime_minister": {
+      "nom": "Ousmane SONKO",
+      "role": "Premier Ministre"
+    }
+  },
+  "government_members": [
+    {
+      "poste": "Ministre, Secrétaire général du Gouvernement",
+      "nom": "Boubacar CAMARA"
+    },
+    {
+      "poste": "Ministre de la Justice, Garde des Sceaux",
+      "nom": "Yassine FALL"
+    },
+    {
+      "poste": "Ministre de l'Énergie, du Pétrole et des Mines",
+      "nom": "Birame Souleye DIOP"
+    },
+    {
+      "poste": "Ministre de l'Intégration africaine, des Affaires étrangères et des Sénégalais de l'Extérieur",
+      "nom": "Cheikh NIANG"
+    },
+    {
+      "poste": "Ministre des Forces armées",
+      "nom": "Birame DIOP"
+    },
+    {
+      "poste": "Ministre de l'Intérieur et de la Sécurité publique",
+      "nom": "Mouhamadou Bamba CISSE"
+    },
+    {
+      "poste": "Ministre de l'Économie du Plan et de la Coopération",
+      "nom": "Abdourahmane SARR"
+    },
+    {
+      "poste": "Ministre des Finances et du Budget",
+      "nom": "Cheikh DIBA"
+    },
+    {
+      "poste": "Ministre de l'Enseignement supérieur, de la Recherche et de l'Innovation",
+      "nom": "Daouda NGOM"
+    },
+    {
+      "poste": "Ministre des Transports terrestres et aériens",
+      "nom": "Yankhoba DIEME"
+    },
+    {
+      "poste": "Ministre de la Communication, des Télécommunications et du Numérique",
+      "nom": "Alioune SALL"
+    },
+    {
+      "poste": "Ministre de l'Éducation nationale",
+      "nom": "Moustapha Mamba GUIRASSY"
+    },
+    {
+      "poste": "Ministre de l'Agriculture, de la Souveraineté alimentaire et de l'Élevage",
+      "nom": "Mabouba DIAGNE"
+    },
+    {
+      "poste": "Ministre de l'Hydraulique et de l'Assainissement",
+      "nom": "Cheikh Tidiane DIEYE"
+    },
+    {
+      "poste": "Ministre de la Santé et de l'Hygiène publique",
+      "nom": "Ibrahima SY"
+    },
+    {
+      "poste": "Ministre de la Famille, de l'Action sociale et des Solidarités",
+      "nom": "Maimouna DIEYE"
+    },
+    {
+      "poste": "Ministre de l'Emploi et de la Formation professionnelle et technique",
+      "nom": "Amadou Moustapha Ndieck SARRE"
+    },
+    {
+      "poste": "Ministre de l'Environnement et de la Transition écologique",
+      "nom": "Elhadj Abdourahmane DIOUF"
+    },
+    {
+      "poste": "Ministre de l'Urbanisme, des Collectivités territoriales et de l'Aménagement des Territoires",
+      "nom": "Balla Moussa FOFANA"
+    },
+    {
+      "poste": "Ministre de l'Industrie et du Commerce",
+      "nom": "Serigne Gueye DIOP"
+    },
+    {
+      "poste": "Ministre des Pêches et de l'Économie maritime",
+      "nom": "Fatou DIOUF"
+    },
+    {
+      "poste": "Ministre de la Fonction publique, du Travail et de la Réforme du Service public",
+      "nom": "Olivier BOUCAL"
+    },
+    {
+      "poste": "Ministre de la Jeunesse et des Sports",
+      "nom": "Khady Diene GAYE"
+    },
+    {
+      "poste": "Ministre de la Microfinance, de l'Économie sociale et solidaire",
+      "nom": "Alioune DIONE"
+    },
+    {
+      "poste": "Ministre des Infrastructures",
+      "nom": "Déthié FALL"
+    },
+    {
+      "poste": "Ministre de la Culture, de l'Artisanat et du Tourisme",
+      "nom": "Amadou BA"
+    }
+  ],
+  "state_secretaries": [
+    {
+      "poste": "Secrétaire d'État auprès du Premier Ministre, chargée des Relations avec les Institutions, Porte-Parole du Gouvernement",
+      "nom": "Marie Rose Khady Fatou FAYE"
+    },
+    {
+      "poste": "Secrétaire d'État auprès du Ministre de l'Intégration africaine, des Affaires étrangères et des Sénégalais de l'Extérieur",
+      "nom": "Amadou Chérif DIOUF"
+    },
+    {
+      "poste": "Secrétaire d'État auprès du Ministre de l'Agriculture, de la Souveraineté alimentaire et de l'Élevage",
+      "nom": "Alpha BA"
+    },
+    {
+      "poste": "Secrétaire d'État auprès du Ministre de l'Urbanisme, des Collectivités territoriales et de l'Aménagement des Territoires",
+      "nom": "Momath Talla NDAO"
+    },
+    {
+      "poste": "Secrétaire d'État auprès du Ministre de l'Industrie et du Commerce",
+      "nom": "Ibrahima THIAM"
+    },
+    {
+      "poste": "Secrétaire d'État auprès du Ministre de la Culture, de l'Artisanat et du Tourisme",
+      "nom": "Bacary SARR"
+    }
+  ],
+  "communication_guidelines": {
+    "tone": "institutionnel, neutre et factuel",
+    "language": "français",
+    "clarity": "clarté, respect et précision",
+    "political_approach": "basé sur des faits connus, évite les prises de position partisanes, privilégie l'intérêt général",
+    "uncertainty": "signaler clairement quand une information est incertaine"
+  }
+}
