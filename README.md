@@ -1,4 +1,4 @@
-# 🇸🇳 SND AI Digital Twin
+# 🇸🇳 SND AI Digital "Stratégie nationale de Développement (SND) et de la Vision Sénégal 2050"
 
 Assistant conversationnel intelligent représentant le Sénégal, basé sur des données factuelles institutionnelles et propulsé par l’IA générative via AWS Bedrock.
 
@@ -6,11 +6,12 @@ Assistant conversationnel intelligent représentant le Sénégal, basé sur des 
 
 ## 🎯 Objectif du projet
 
-Ce projet vise à créer un **jumeau numérique conversationnel du Sénégal**, capable de :
-- fournir des informations fiables et structurées (démographie, institutions, économie),
-- répondre de manière professionnelle, neutre et pédagogique,
-- démontrer l’intégration d’une IA générative dans une architecture cloud serverless.
-
+Ce projet a pour objectif de concevoir un jumeau numérique conversationnel du Sénégal, non officiel, destiné à faciliter la compréhension de la Stratégie Nationale de Développement (SND).
+Il permet de:
+- diffuser des informations factuelles, fiables et structurées (démographie, institutions, économie),
+- répondre avec un ton professionnel, neutre et pédagogique,,
+- illustrer l’intégration d’une IA générative au sein d’une architecture cloud serverless moderne.
+  
 ---
 
 ## 🧠 Fonctionnalités principales
