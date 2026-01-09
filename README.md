@@ -25,4 +25,42 @@ Ce projet vise à créer un **jumeau numérique conversationnel du Sénégal**, 
 ---
 
 ## 🏗️ Architecture
+Frontend (Next.js)  
+⬇️  
+Backend API (FastAPI – AWS Lambda)  
+⬇️  
+AWS Bedrock (Amazon Nova)
+
+---
+
+## 🛠️ Technologies utilisées
+
+### Backend
+- Python 3
+- FastAPI
+- AWS Lambda
+- AWS Bedrock (Amazon Nova)
+- boto3
+- Mangum
+- pypdf
+
+### Frontend
+- Next.js (React)
+- TypeScript
+
+### Cloud & DevOps
+- AWS IAM
+- Serverless Architecture
+- Git & GitHub
+
+---
+
+## ⚙️ Configuration (Backend)
+
+### Variables d’environnement
+
+```env
+DEFAULT_AWS_REGION=eu-west-3
+BEDROCK_MODEL_ID=amazon.nova-lite-v1:0
+USE_S3=false
 
