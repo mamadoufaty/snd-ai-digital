@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+
+/* 
+ * Custom bouncing dots animation for loading states
+ * Used in the Twin chat component for AI response indicator
+ */
+@keyframes bounce {
+  /* Start and end at normal position */
+  0%, 80%, 100% {
+    transform: translateY(0);
+    opacity: 0.7;
+  }
+  /* Peak of the bounce */
+  40% {
+    transform: translateY(-10px);
+    opacity: 1;
+  }
+}
+
+/* Animation class with smooth infinite loop */
+.animate-bounce {
+  animation: bounce 1.4s ease-in-out infinite;
+  animation-fill-mode: both;
+}
+
+/* Staggered delays for wave effect */
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; } /* Optionnel pour plus de points */
